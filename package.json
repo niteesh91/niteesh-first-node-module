@@ -1,0 +1,19 @@
+{
+  "name": "niteesh-first-node-module",
+  "version": "1.0.0",
+  "description": "very first module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niteesh91/niteesh-first-node-module.git"
+  },
+  "author": "ag_dubs <wombat@npmjs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niteesh91/niteesh-first-node-module/issues"
+  },
+  "homepage": "https://github.com/niteesh91/niteesh-first-node-module#readme"
+}
